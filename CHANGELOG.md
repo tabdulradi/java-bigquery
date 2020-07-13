@@ -1,5 +1,14 @@
 # Changelog
 
+### [1.116.7](https://www.github.com/googleapis/java-bigquery/compare/v1.116.6...v1.116.7) (2020-07-13)
+
+
+### Documentation
+
+* **samples:** add extract compressed table ([#538](https://www.github.com/googleapis/java-bigquery/issues/538)) ([3f129a6](https://www.github.com/googleapis/java-bigquery/commit/3f129a6a4fff2162d1aef5ba29b4fa6246793d97))
+* **samples:** add get dataset labels ([#539](https://www.github.com/googleapis/java-bigquery/issues/539)) ([563157c](https://www.github.com/googleapis/java-bigquery/commit/563157cc40727cb7cb9aed16dfbb956a668ead51))
+* **samples:** add get table labels ([#540](https://www.github.com/googleapis/java-bigquery/issues/540)) ([a6d9491](https://www.github.com/googleapis/java-bigquery/commit/a6d94913f74a6b4d29e9314a0652a9e3fa30aed9))
+
 ### [1.116.6](https://www.github.com/googleapis/java-bigquery/compare/v1.116.5...v1.116.6) (2020-07-10)
 
 
